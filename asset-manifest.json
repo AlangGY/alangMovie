@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alangMovie/static/css/main.8c0534e5.chunk.css",
+    "main.js": "/alangMovie/static/js/main.bcfb4dfd.chunk.js",
+    "main.js.map": "/alangMovie/static/js/main.bcfb4dfd.chunk.js.map",
+    "runtime-main.js": "/alangMovie/static/js/runtime-main.bfd51c77.js",
+    "runtime-main.js.map": "/alangMovie/static/js/runtime-main.bfd51c77.js.map",
+    "static/js/2.983a9755.chunk.js": "/alangMovie/static/js/2.983a9755.chunk.js",
+    "static/js/2.983a9755.chunk.js.map": "/alangMovie/static/js/2.983a9755.chunk.js.map",
+    "index.html": "/alangMovie/index.html",
+    "static/css/main.8c0534e5.chunk.css.map": "/alangMovie/static/css/main.8c0534e5.chunk.css.map",
+    "static/js/2.983a9755.chunk.js.LICENSE.txt": "/alangMovie/static/js/2.983a9755.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfd51c77.js",
+    "static/js/2.983a9755.chunk.js",
+    "static/css/main.8c0534e5.chunk.css",
+    "static/js/main.bcfb4dfd.chunk.js"
+  ]
+}
